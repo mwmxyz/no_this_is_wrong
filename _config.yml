@@ -1,19 +1,19 @@
 # this is only for search engines, it does not appear in the home
 # as long as the json variables name and description are provided
-title: Project File is never complete
-description: You might as well click around, since you found this stuff
-baseurl: "https://mwmxyz.github.io/no_this_is_wrong/"
-url: https://mwmxyz.github.io/academic/
+title: Hacked Jekyll
+description: Jekyll microtheme that looks like JSON
+baseurl: ""
+url: https://hacked-jekyll.netlify.app
 
 # this information is shown on the homepage, all fields are optional and
 # can be declared either as a single string or as a string array/hash
 json:
-  name: Michael W. Merriam
+  name: Place Holder
   description:
-    - I'm sorry about the mess...
-    - Wait, why am I apologizing to you? You're in someone else's... green place!
-    - I'm sorry I snapped at you. Make yourself at home. Did you enjoy the nice, well-manicured CV?
-  cv: https://mwmxyz.github.io/academic/
+    - Hello!
+    - This tiny website
+    - Looks like json
+  cv: assets/cv.pdf
   address:
     - University of Jekyll
     - Department of Themes
