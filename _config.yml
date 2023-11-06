@@ -2,7 +2,7 @@
 # as long as the json variables name and description are provided
 title: Project File is never complete
 description: You might as well click around, since you found this stuff
-baseurl: "https://mwmxyz.github.io/no_this_is_wrong"
+baseurl: "https://mwmxyz.github.io/no_this_is_wrong/"
 url: https://mwmxyz.github.io/academic/
 
 # this information is shown on the homepage, all fields are optional and
