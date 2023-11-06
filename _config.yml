@@ -1,19 +1,19 @@
 # this is only for search engines, it does not appear in the home
 # as long as the json variables name and description are provided
-title: Hacked Jekyll
-description: Jekyll microtheme that looks like JSON
+title: Project File is never complete
+description: You might as well click around, since you found this stuff
 baseurl: ""
-url: https://hacked-jekyll.netlify.app
+url: https://mwmxyz.github.io/academic/
 
 # this information is shown on the homepage, all fields are optional and
 # can be declared either as a single string or as a string array/hash
 json:
-  name: Place Holder
+  name: Michael W. Merriam
   description:
-    - Hello!
-    - This tiny website
-    - Looks like json
-  cv: assets/cv.pdf
+    - I'm sorry about the mess...
+    - Wait, why am I apologizing to you? You're in someone else's... green place!
+    - I'm sorry I snapped at you. Make yourself at home. Did you enjoy the nice, well-manicured CV?
+  cv: https://mwmxyz.github.io/academic/
   address:
     - University of Jekyll
     - Department of Themes
